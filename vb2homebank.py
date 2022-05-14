@@ -36,11 +36,6 @@ vb_field_names = [
     "steuerrelevant", "glaeubiger id", "mandatsreferenz"
 ]
 
-visa_field_names = [
-    "abgerechnet", "wertstellung", "belegdatum", "umsatzbeschreibung",
-    "betrag", "urspruenglicherBetrag"
-]
-
 homebank_field_names = [
     "date", "paymode", "info", "payee", "memo", "amount", "category", "tags"
 ]
