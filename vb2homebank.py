@@ -99,8 +99,6 @@ def find_transaction_lines(file):
             return lines[i:]
         i = i + 1
 
-    raise ValueError("Can't convert CSV file without header line")
-
 
 def convert_date(date_string):
     """Convert the date_string to dd-mm-YYYY format."""
