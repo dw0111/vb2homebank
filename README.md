@@ -1,4 +1,6 @@
-# vb2homebank ![Python application](https://github.com/dw0111/vb2homebank/workflows/Python%20application/badge.svg)
+# vb2homebank
+
+Thank you to [hamvocke](https://github.com/hamvocke) for writing this for [DKB](https://github.com/hamvocke/dkb2homebank) and basically having done all the work already.
 
 This script converts CSV account reports from german Volksbank to a
 CSV format that can be imported by the personal finance software
